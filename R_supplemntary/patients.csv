@@ -1,0 +1,12 @@
+ID,Sex,BMI,BMICategorical,Height,Weight
+1,Woman,19.06,Healthy,1.9,68.9
+2,Man,16.86,Underweight,2.1,74.02
+3,Man,24.51,Healthy,1.67,68.32
+4,Man,24.37,Healthy,1.74,73.8
+5,Woman,28.57,Overweight,1.54,67.94
+6,Woman,32.54,Obese,1.44,67.76
+7,Man,58.63,Obese,1.19,82.61
+8,Woman,19.27,Healthy,1.89,68.72
+9,Man,28,Overweight,1.65,76.58
+10,Man,21.69,Healthy,1.85,74.31
+11,Woman,18.1,Underweight,1.95,68.97
